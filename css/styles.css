@@ -1,5 +1,6 @@
 body {
   background-image: url("the_punisher_skull.jpg");
+  background-size: 300px;
   background-repeat: no-repeat;
   background-position: right top;
   margin-right: 200px;
