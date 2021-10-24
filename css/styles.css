@@ -1,5 +1,9 @@
 body {
-  background-image: https://juhamusta.github.io/("punisher.jpg");
+  background-image: url("the_punisher_skull.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  margin-right: 200px;
+  background-attachment: fixed;
 }
 
 h1 {
