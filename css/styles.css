@@ -9,14 +9,14 @@ body {
 
 h1 {
   font-family: verdana;
-  color: Orange;
+  color: #FC5F00;
   text-aling: center;
 }
 
 p {
   font-family: verdana;
   font-sie: 60px;
-  color: Orange;
+  color: #FC5F00;
 }
 table {
   font-family: verdana;
@@ -25,7 +25,7 @@ table {
 }
 
 td, th {
-  border: 1px solid Orange;
+  border: 1px solid #FC5F00;
   text-align: left;
   padding: 8px;
 }
