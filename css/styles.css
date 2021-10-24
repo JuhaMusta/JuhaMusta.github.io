@@ -1,5 +1,5 @@
 body {
-  background-image: https://juhamusta.github.io/punisher.jpg("bg.gif");
+  background-image:https://juhamusta.github.io/punisher.jpg("bg.gif");
 }
 
 h1 {
@@ -10,4 +10,5 @@ h1 {
 p {
   font-family: verdana;
   font-sie: 60px;
+  color: Orange;
 }
