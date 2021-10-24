@@ -24,7 +24,6 @@ table {
   border-collapse: collapse;
   table-layout: auto;
   width: 40%;
-  border: 1px solid white;
 }
 
 td, th {
@@ -34,6 +33,5 @@ td, th {
   font-family: verdana;
   color: #FC5F00;
   font-sie: 50px;
-  border: 1px;
-  border-color: #96D4D4;
+
 }
