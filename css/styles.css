@@ -21,15 +21,11 @@ p {
 table {
   font-family: verdana;
   border-collapse: collapse;
-  width: 100%;
+  width: 50%;
 }
 
 td, th {
-  border: 1px solid #dddddd;
+  border: 1px solid Orange;
   text-align: left;
   padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
 }
