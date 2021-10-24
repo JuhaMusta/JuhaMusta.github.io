@@ -15,7 +15,6 @@ h1 {
 
 p {
   font-family: verdana;
-  font-size: 60px;
   color: #FC5F00;
 }
 table {
@@ -32,6 +31,4 @@ td, th {
   padding: 8px;
   font-family: verdana;
   color: #FC5F00;
-  font-size: 50px;
-
 }
